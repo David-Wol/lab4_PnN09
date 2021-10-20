@@ -1,2 +1,2 @@
 # lab1_PnN09
-Języki Programowania - laboratoria
+Języki Programowania - laboratoria 

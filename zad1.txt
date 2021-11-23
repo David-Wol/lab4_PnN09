@@ -1,1 +1,0 @@
-Wypisać tabliczkę mnożenia przy użyciu format

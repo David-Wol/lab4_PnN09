@@ -1,3 +1,0 @@
-Interfejs graficzny z użyciem SWING - cz. 1
-
-Program obsługuje system logowania predefiniowanych użytkowników systemu za pomocą loginu i hasła.

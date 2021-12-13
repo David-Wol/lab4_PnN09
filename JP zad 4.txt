@@ -1,0 +1,8 @@
+Obsługa zdarzeń od myszy i klawiatury
+
+Aplikacja reagująca na mysz i klawiaturę:
+- "uciekający" przycisk
+  * strefa bezpieczna (np. 20 pikseli od prawej nie powoduje uciekania)
+- kanwa do rysowania
+  * dwa rodzaje figur wybierane z klawiatury
+  * pozycja pokazana myszążytkowników systemu za pomocą loginu i hasła.
